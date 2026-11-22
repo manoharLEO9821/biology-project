@@ -1,0 +1,27 @@
+28-05-2026 10:17:52 :: Function RemoveAMDRMService Started.
+28-05-2026 10:17:52 :: Function ReadRegistryKey started.
+28-05-2026 10:17:52 :: Function ReadRegistryKey KeyValue is 
+28-05-2026 10:17:52 :: Function ReadRegistryKey Ended.
+28-05-2026 10:17:52 :: SDK install path as per environment variable : C:\Program Files\AMD\RyzenMasterSDK\
+28-05-2026 10:17:52 :: Path from which service runs as per registry : 
+28-05-2026 10:17:52 :: Not uninstalling driver service as it does not belong to current installer being removed.
+28-05-2026 10:17:52 :: Function RemoveAMDRMService. Minor Upgrade property is : 
+28-05-2026 10:17:52 :: Function RemoveAMDRMService Ended.
+28-05-2026 10:17:52 :: Function ReadStringRegistryKey started.
+28-05-2026 10:17:52 :: Function ReadStringRegistryKey KeyValue is C:\Program Files\AMD\RyzenMasterSDK\
+28-05-2026 10:17:52 :: Function ReadStringRegistryKey Ended.
+28-05-2026 10:17:52 :: Function CleanupFile_Up - DriverUtility.bat not found at C:\Program Files\AMD\RyzenMasterSDK\DriverUtility.bat
+28-05-2026 10:17:52 :: Function CleanupFile_Up - HPET.bat not found at C:\Program Files\AMD\RyzenMasterSDK\HPET.bat
+28-05-2026 10:17:52 :: Function CleanupFile_Up - Deleted License_Public.txt during upgrade
+16-10-2026 21:11:30 :: Occurance of 'PRO' NOT found.Proceed with installation.
+16-10-2026 21:11:30 :: Installation can CONTINUE. Processor : AMD Ryzen 7 7445HS w/ Radeon 740M Graphics      Manufacturer : HP
+16-10-2026 21:11:30 :: UpdateARP, value : HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{CEF1D4CD-0C30-4B42-A922-5FDB044C0ACF}\WindowsInstaller
+16-10-2026 21:11:30 :: Function UpdateARP. dat File not present
+16-10-2026 21:11:30 :: Function UpdateARP. dat File not present
+16-10-2026 21:11:31 :: Function ReadStringRegistryKey started.
+16-10-2026 21:11:31 :: Function ReadStringRegistryKey KeyValue is 
+16-10-2026 21:11:31 :: Function ReadStringRegistryKey Ended.
+16-10-2026 21:11:31 :: Function CleanupFile_Up - DriverUtility.bat not found at DriverUtility.bat
+16-10-2026 21:11:31 :: Function CleanupFile_Up - HPET.bat not found at HPET.bat
+16-10-2026 21:11:31 :: Function CleanupFile_Up - License_Public.txt not found at License_Public.txt
+16-10-2026 21:11:31 :: SetFolPermission_install : Not enabling as programfiles detected
